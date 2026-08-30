@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Minecurry.aternos.me",
+    "port": 42723,
     "version": "",
     "try-creative": false
   },
