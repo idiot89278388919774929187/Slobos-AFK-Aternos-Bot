@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Minecurry.aternos.me",
+    "ip": "playcivilsmp.aternos.me",
     "port": 42723,
     "version": "",
     "try-creative": false
